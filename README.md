@@ -38,5 +38,5 @@ A database design for a small Instagram-based store that sells thrifted fashion 
 
 ## Tools Used
 
-- Diagram designed using **Claude AI** (Mermaid ER diagram)
+- Diagram designed using **Draw.io** 
 - Exported as PNG for submission
