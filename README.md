@@ -2,13 +2,6 @@
 
 A database design for a small Instagram-based store that sells thrifted fashion items and handmade products. Orders are received via Instagram DMs and WhatsApp, and the owner needs to manage products, stock, customers, payments, and deliveries.
 
----
-
-## Diagram
-
-![ER Diagram](./er_diagram.png)
-
----
 
 ## Entities
 
